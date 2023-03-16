@@ -1,0 +1,27 @@
+#entret h2 {
+    color: blue;
+}
+
+.creation-date h2 {
+    color: brown;
+}
+
+.creation-date p {
+    color: rgb(255, 0, 0);
+}
+
+.creation-date h3 {
+    color: darkslateblue;
+}
+
+#entret h3 {
+    color: crimson;
+}
+
+#entret p {
+    color: blueviolet;
+}
+
+#entret a {
+    color: gold;
+}
