@@ -1,0 +1,56 @@
+#entret h2 {
+    color: blue;
+}
+
+.creation-date h2 {
+    color: blue;
+}
+
+.creation-date p {
+    color: grey;
+}
+
+.creation-date h3 {
+    color: darkslategray;
+}
+
+#entret h3 {
+    color: darkslategray;
+}
+
+#entret p {
+    color: blueviolet;
+}
+
+#entret a {
+    color: blueviolet;
+}
+
+body {
+    background-color: ghostwhite;
+}
+
+section h2 {
+    color: blue;
+}
+
+section h3 {
+    color: darkslategray;
+}
+
+.creation-date a {
+    color:blueviolet
+}
+
+.creation-date a {
+    background-color: yellow;
+}
+
+section a {
+    background-color: yellow ;
+}
+
+
+h1 {
+    color:blue
+}
